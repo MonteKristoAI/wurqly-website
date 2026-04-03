@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wurqly.com/sitemap.xml
